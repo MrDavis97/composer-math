@@ -3,7 +3,7 @@ math_button:
   description:
     en: Enter the text for the title of the button in the composer.
 math_text:
-  default: "Math"
+  default: "f(x)=x^2"
   description:
     en: Enter the placeholder text that appears in the composer after the user clicks the button.
 
