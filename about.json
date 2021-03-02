@@ -1,9 +1,9 @@
 {
-  "name": "md-composer-extras",
+  "name": "composer-math",
   "component": true,
   "license_url": null,
-  "about_url": "https://www.mon-discourse.fr/themes/md-composer-extras/",
-  "authors": "Steven",
-  "theme_version": "1.5",
+  "about_url": "https://github.com/MrDavis97/composer-math",
+  "authors": "Miles",
+  "theme_version": "1",
   "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
 }
